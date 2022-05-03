@@ -18,6 +18,6 @@ after that import
 
 tailwindStyles.css to in index.js
 
-this guide is deprecated
+> this guide is deprecated
 
 updated: https://tailwindcss.com/docs/guides/create-react-app
